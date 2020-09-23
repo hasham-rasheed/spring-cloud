@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie-ratings-by-user/movie-ratings-by-user.iml" filepath="$PROJECT_DIR$/movie-ratings-by-user/movie-ratings-by-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movies-info/movies-info.iml" filepath="$PROJECT_DIR$/movies-info/movies-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-ratings/user-ratings.iml" filepath="$PROJECT_DIR$/user-ratings/user-ratings.iml" />
+    </modules>
+  </component>
+</project>
